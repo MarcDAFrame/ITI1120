@@ -1,7 +1,5 @@
 # ITI1120
 ###### ITI1120 - Introduction to Computer Science
-###### Lecture #1
-###### Sept. 11th, 2017
 ###### Prof. Vida Dujmovic
 
 ###### Notebook By: Marc Frame
