@@ -12,9 +12,9 @@ My professor for this course is Vida Dujmovic who also uploads her code and a re
 
 **Linux:**
 
-1: pip3 install Jupyter
+1: >pip3 install Jupyter
 
-2: ITI1120/Notebooks Jupyter Notebooks
+2: >ITI1120/Notebooks jupyter notebook
 
 3: run the notebooks from the buttons in the headers or by using the hotkey shift + enter
 
