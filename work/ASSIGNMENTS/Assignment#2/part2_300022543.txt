@@ -1,0 +1,19 @@
+>>> min_enclosing_rectangle(1,1,1)
+(0, 0)
+>>> min_enclosing_rectangle(4.5, 10, 2)
+(5.5, -2.5)
+>>> min_enclosing_rectangle(-1, 10, 2)
+>>> min_enclosing_rectangle(500, 1000, 2000)
+(500, 1500)
+
+>>> series_sum()
+Please enter a non-negative integer: -10
+>>> series_sum()
+Please enter a non-negative integer: 0
+1000
+>>> series_sum()
+Please enter a non-negative integer: 5
+1001.463611111111
+>>> series_sum()
+Please enter a non-negative integer: 2
+1001.0
