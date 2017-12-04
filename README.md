@@ -5,7 +5,7 @@
 ###### Notebook By: Marc Frame
 
 ## Preface
-hope you find my notes useful, I am attempting to take thurough and easy to read jupyter notes and hope they come in handy for you.
+hope you find my notes useful, I am attempting to make thorough and easy to read jupyter notes 
 My professor for this course is Vida Dujmovic who also uploads her code and a recording of the lecture to **uOttawa** brightspace 
 
 ## Installing and Running Jupyter Notebook
